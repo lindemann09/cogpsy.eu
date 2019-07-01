@@ -3,4 +3,3 @@ init_submodules:
 
 pull_submodules:
 	git pull --recurse-submodules
-	git submodule update --remote
