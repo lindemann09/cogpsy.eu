@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oliver Lindemann</title>
+    <description>Oliver Lindemanns research webpage. Cognitive psychologist teaching statistics.</description>
+    <link>http://www.cognitive-psychology.eu/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 22 Aug 2019 16:13:45 +0200</pubDate>
+    <lastBuildDate>Thu, 22 Aug 2019 16:13:45 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
+    
+  </channel>
+</rss>
