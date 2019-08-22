@@ -19,10 +19,7 @@ deploy:
 	git add .
 	# Commit changes.
 	msg="rebuilding site $(date)"
-	if [ -n "$*" ]; then
-		msg="$*"
-	fi
-	git commit -m "$msg"
+	commit -m "$msg"
 	# Push source and build repos.
 	git push --all
 

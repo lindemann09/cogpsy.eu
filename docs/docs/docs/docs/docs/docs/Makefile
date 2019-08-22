@@ -16,11 +16,6 @@ deploy:
 	make build
 	rm -rf docs/
 	mv _site/ docs/
-	git add .
-	# Commit changes.
-	commit -m "rebuilding site"
-	# Push source and build repos.
-	git push --all
 
 clean:
 	jekyll clean
