@@ -1,6 +1,6 @@
 ---
-layout: redirect
+layout: redirect_local
 target: lindemann
 ---
 
-Oliver Lindemanns research website
+redirecting...

@@ -1,0 +1,100 @@
+body, table, {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	color: #5B5E60;
+}
+
+p {
+   font-size:12px;
+   font-family:Verdana,Tahoma, Arial;
+   color: #5B5E60;
+}
+
+td {
+	font-family: Verdana, Tahoma, Helvetica, Arial;
+	font-size: 12px;
+	color: #5B5E60;
+}
+
+.HeadRed {
+	font-family: Verdana, Tahoma, Helvetica, Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #CC3333;
+}
+
+
+.blueApes {
+	font-family: Verdana, Tahoma, Helvetica, Arial;
+	font-size: 16px;
+	font-weight: bold;
+	color: #5684C3;
+}
+
+.blue {
+	font-family: Verdana, Tahoma, Helvetica, Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #5684C3;
+}
+
+.RedKids {
+	font-family: Verdana, Tahoma, Helvetica, Arial;
+	font-size: 16px;
+	font-weight: bold;
+	color: #9A5555;
+}
+
+.RedKids2 {
+	font-family: Verdana, Tahoma, Helvetica, Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #9A5555;
+}
+
+.GreenDogs {
+	font-family: Verdana, Tahoma, Helvetica, Arial;
+	font-size: 16px;
+	font-weight: bold;
+	color: #5C7B7B;
+}
+
+.braun {
+	font-family: Verdana, Tahoma, Helvetica, Arial;
+	font-size: 16px;
+	font-weight: bold;
+	color: #7D693C;
+}
+
+
+.contentKlein {
+	font-weight: normal;
+	font-size: 10px;
+	font-family: verdana, arial, sans-serif;
+	color: #5684C3;
+	font-style: normal;
+	}
+
+a { font-family: verdana,arial,sans-serif; font-size: 12px; color:#5B5E60; text-decoration: none; font-weight: bold;}
+a:hover { font-family: verdana,arial,sans-serif; font-size: 12px; color:#4C79BC; text-decoration: none; font-weight: bold;}
+
+a.LinkBold { font-family: verdana,arial,sans-serif; font-size: 12px; color:#5B5E60; text-decoration: none; font-weight: bold;}
+a.LinkBold:hover { font-family: verdana,arial,sans-serif; font-size: 12px; color:#4C79BC; text-decoration: none; font-weight: bold;}
+
+a.LinkPdf{ font-family: verdana,arial,sans-serif; font-size: 12px; color:#0066cc; text-decoration: none; font-weight: normal;}
+a.LinkPdf:hover { font-family: verdana,arial,sans-serif; font-size: 12px; color:#CC3333; text-decoration: none; font-weight: normal;}
+
+a.Linkred { font-family: verdana,arial,sans-serif; font-size: 12px; color:#CC3300; text-decoration: none; font-weight: normal;}
+a.Linkred:hover { font-family: verdana,arial,sans-serif; font-size: 12px; color:#CC3300; text-decoration: none; font-weight: normal;}
+
+
+a.LinkUnderline { font-family: verdana,arial,sans-serif; font-size: 12px; color:#5B5E60;text-decoration : underline;}
+a.LinkUnderline:hover { font-family: verdana,arial,sans-serif; font-size: 12px; color:#4C79BC;text-decoration : underline;}
+
+a.LinkWhite { font-family: verdana,arial,sans-serif; font-size: 12px; color:#333333;text-decoration : none; font-weight: bold;}
+a.LinkWhite:hover { font-family: verdana,arial,sans-serif; font-size: 12px; color:#FFFFFF;text-decoration : none; font-weight: bold;}
+
+a.LinkSimple { font-family: verdana,arial,sans-serif; font-size: 12px; color:#5B5E60;text-decoration : none; font-weight: normal;}
+a.LinkSimple:hover { font-family: verdana,arial,sans-serif; font-size: 12px; color:#CC3300;text-decoration : none; font-weight: normal;}
+
+
