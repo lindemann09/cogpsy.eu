@@ -6,15 +6,15 @@ html:
 
 build:
 	make html
+	rm docs/ -rf
 	jekyll build --incremental
 
 serve:
-	make html
+	make build
 	jekyll s --future --drafts --livereload
 
 deploy:
 	make build
-	rm -rf docs/
 	mv _site/ docs/
 	git add .
 	# Commit changes.
