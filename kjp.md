@@ -6,4 +6,6 @@ layout: limetree
 
 **Die Seite wurde vom Netz genommen.**
 
-Falls noch weiter Bedarf nach den Auswertungsformularen besteht, meldet euch bitte bei Pia per Email.
+Die Auswertungshilfe ist leider nicht mehr online, da die verwendete Software veraltet war und eine Sicherheitslücke darstellte. Leider habe ich momentan wenig Zeit die Software zu aktualisieren.
+
+O. Lindemann
