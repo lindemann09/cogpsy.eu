@@ -1,8 +1,14 @@
 <!DOCTYPE html>
+
 <html>
     {% include head.html %}
+
+	<!-- Calendly link widget-->
     <body id="page-top" class="index">
-    {% include nav.html %}
+    <link href="https://calendly.com/assets/external/widget.css" rel="stylesheet">
+    <script src="https://calendly.com/assets/external/widget.js" type="text/javascript"></script>
+
+	{% include nav.html %}
     {% include header.html %}
 
     {{ content }}

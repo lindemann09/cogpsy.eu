@@ -15,19 +15,19 @@
 body {
     overflow-x: hidden;
     font-family: Georgia, serif;
-	font-weight: 400;
+	font-weight: 200;
 }
 
 p, td {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 p.small {
-    font-size: 17px;
+    font-size: 14px;
 }
 
 ul {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 a,
@@ -49,9 +49,9 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-family: Georgia, serif;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 hr.star-light,
@@ -123,7 +123,7 @@ header img {
 
 header .intro-text .name {
     display: block;
-    text-transform: uppercase;
+/*    text-transform: uppercase; */
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
@@ -173,9 +173,8 @@ header .intro-text .skills {
 }
 
 .navbar {
-    text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 .navbar a:focus {
@@ -201,8 +200,13 @@ section {
 
 section h2 {
     margin: 0;
-    font-size: 3em;
+    font-size: 2em;
 }
+
+section h3 {
+    font-size: 1.7em;
+}
+
 
 section.success {
     color: #2C3E50;
@@ -522,11 +526,11 @@ footer .footer-below {
 }
 
 .contact{
-    font-size: 19px;
+    font-size: 18px;
 }
 
 .contact:hover{
-    font-size: 20px;
+    font-size: 19px;
     transition: all .3s ease-in-out;
 }
 
