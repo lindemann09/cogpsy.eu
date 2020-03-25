@@ -1,5 +1,6 @@
 ---
-layout: limetree
+layout: redircet
+target: https://webmail.df.eu/roundcube/
 ---
 
 **Die Seite von *Theos Tollen Trampeltouren*
