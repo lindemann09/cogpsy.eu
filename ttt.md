@@ -6,4 +6,4 @@ layout: webmail
 wurde vom Netzgenommen genommen.**
 
 
-[Email/Webmail](https://webmail.df.eu/roundcube/)
+[Webmail](https://webmail.df.eu/roundcube/)
