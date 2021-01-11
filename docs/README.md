@@ -1,4 +1,3 @@
-
 Website: http://www.cognitive-psychology.eu
 
 * Edit files and call `make deploy` to update website.

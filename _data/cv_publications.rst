@@ -1,6 +1,12 @@
 Journal Articles
 ----------------
 
+Miklashevsky, M., **Lindemann, O.** & Fischer, M.H. (2021). The force of numbers: Investigating manual signatures of embodied number processing. *Frontiers in Human Neuroscience*. doi:10.3389/fnhum.2020.590508
+
+Böffel, C., Herbst, C., **Lindemann, O.** & Müsseler, J. (2020). Spatial-Numerical Associations in the Presence of an Avatar are Influenced by Spontaneous Response Code Changes. *Psychological Research*. doi:10.1007/s00426-020-01424-y
+
+Colling, L, Szűcs, D., ... **Lindemann, O.** et al. (2020). Registered Replication Report on Fischer, Castel, Dodd, and Pratt (2003). *Advances in Methods and Practices in Psychological Science*. 3(2), 143–162. doi:10.1177/2515245920903079
+
 Krause, F., Meyer, M., Bekkering, H., Hunnius, S. & **Lindemann, O.**
 (2019).  Interaction between Perceptual and Motor Magnitudes in Early Childhood. *Developmental Psychology*. 49, 11-19. doi:10.1016/j.cogdev.2018.11.001
 
