@@ -62,7 +62,7 @@ Krause, F. & **Lindemann, O.** (2014). Expyriment: A Python Library for
 Cognitive and Neuroscientific Experiments. *Behavior Research Methods*, 46(2),
 416-428.  doi:10.3758/s13428-013-0390-6 pdf:https://www.researchgate.net/publication/258061775_Expyriment_A_Python_library_for_cognitive_and_neuroscientific_experiments
 
-Krause, F. **Lindemann, O.**, Toni, I., & Bekkering, H. (2014). Different
+Krause, F., **Lindemann, O.**, Toni, I., & Bekkering, H. (2014). Different
 Brains Process Numbers Differently: Structural Bases of Individual Differences
 in Numerical Representations. *Journal of Cognitive Neuroscience*, 26(4),
 768-776.  doi:10.1162/jocn_a_00518 pdf:https://www.researchgate.net/publication/257494670_Different_brains_process_numbers_differently_structural_bases_of_individual_differences_in_spatial_and_non-spatial_number_representations
