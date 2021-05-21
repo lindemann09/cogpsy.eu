@@ -37,12 +37,15 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/ol1909
+  - title: university
+    url: https://www.eur.nl/en/people/oliver-lindemann
   - title: github
     url: https://github.com/lindemann09
   - title: graduation-cap
     url: https://orcid.org/0000-0003-3789-5373
+  - title: twitter
+    url: http://twitter.com/ol1909
+
 
 # Postal address (add as many lines as necessary)
 address:
