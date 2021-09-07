@@ -6,8 +6,13 @@ html:
 
 build:
 	make html
+	make slides
 	rm docs/ -rf
 	jekyll build --incremental
+
+slides: # index for slides folder
+	rm slides/index.html
+	tree -H '.' -L 1 --noreport --charset utf-8 slides > slides/index.html
 
 serve:
 	make build
