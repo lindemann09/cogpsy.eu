@@ -12,14 +12,14 @@ build:
 
 index_slides: # index for slides folder
 	rm -f slides/index.html
-	tree -H '.' -L 2 --noreport --charset utf-8 -T "Slides" slides > slides/index.html
+	tree -H '.' -L 2 --noreport --charset utf-8 -T "My Slides" slides > slides/index.html
 
 serve:
 	make build
 	jekyll s --future --drafts --livereload
 
 deploy:
-	make build
+	make build index_slides
 	mv _site/ docs/
 	git add .
 	# Commit changes.
