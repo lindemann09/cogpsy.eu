@@ -12,7 +12,9 @@ build:
 
 index_slides: # index for slides folder
 	rm -f slides/index.html
+	ls
 	tree -H '.' -L 2 --noreport --charset utf-8 -T "My Slides" slides > slides/index.html
+	cat slides/index.html
 
 serve:
 	make build
@@ -25,7 +27,7 @@ deploy:
 	# Commit changes.
 	git commit -m "rebuilding site"
 	# Push source and build repos.
-	git push --all
+	#git push --all
 
 clean:
 	jekyll clean
