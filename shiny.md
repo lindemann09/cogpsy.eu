@@ -1,6 +1,10 @@
 ---
-layout: redirect
-target: http://shiny.cognitive-psychology.eu:3838
+layout: cogpsy
+
+target: 
 ---
 
-Shiny Server
+# Shiny Server
+
+* [ss-anova](http://shiny.cognitive-psychology.eu:3838/ss-anova)
+
