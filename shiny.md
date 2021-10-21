@@ -1,7 +1,5 @@
 ---
 layout: cogpsy
-
-target: 
 ---
 
 # Oliver Lindemann's Shiny Server
