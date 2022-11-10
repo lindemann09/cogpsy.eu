@@ -1,7 +1,7 @@
 Journal Articles
 ----------------
 
-Miklashevsky, M., Fischer, M.H. & **Lindemann, O.** (in press). Spatial-numerical associations without a motor response? Grip force says "Yes". doi:10.1016/j.actpsy.2022.103791
+Miklashevsky, M., Fischer, M.H. & **Lindemann, O.** (2022). Spatial-numerical associations without a motor response? Grip force says "Yes". doi:10.1016/j.actpsy.2022.103791
 
 Miklashevsky, M., **Lindemann, O.** & Fischer, M.H. (2021). The force of numbers: Investigating manual signatures of embodied number processing. *Frontiers in Human Neuroscience*. doi:10.3389/fnhum.2020.590508
 
