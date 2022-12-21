@@ -2,7 +2,7 @@
 title: Oliver Lindemann
 email: lindemann@essb.eur.nl
 url: http://www.cognitive-psychology.eu
-description: "Oliver Lindemanns research webpage. Cognitive psychologist teaching statistics."
+description: "Oliver Lindemann's research webpage. Cognitive psychologist teaching statistics."
 meta_author:
 
 # Google webmaster tools
@@ -45,7 +45,8 @@ social:
     url: https://orcid.org/0000-0003-3789-5373
   - title: twitter
     url: http://twitter.com/ol1909
-
+  - title: mastodon
+    url: https://digitalcourage.social/@Lindemann
 
 
 # Postal address (add as many lines as necessary)
