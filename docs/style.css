@@ -18,7 +18,12 @@ body {
 	font-weight: 200;
 }
 
-p, td {
+td {
+    font-size: 18px;
+    padding-right: 15px;
+}
+
+p {
     font-size: 18px;
 }
 
