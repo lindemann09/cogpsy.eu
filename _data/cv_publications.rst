@@ -3,6 +3,8 @@ Journal Articles
 
 Sixtus, E., Krause, F., **Lindemann, O.** & Fischer, M. H. (in press). A Sensorimotor Perspective on Numerical Cognition. *Trends in Cognitive Sciences*, doi:10.1016/j.tics.2023.01.002
 
+Terry, J., ..., **Lindermann, O.** et al. (in press). Data from an International Multi-Centre Study of Statistics and Mathematics Anxieties and Related Variables in University Students (the SMARVUS Dataset). Journal of Open Psychology Data. pdf:https://psyarxiv.com/au9vp
+
 Miklashevsky, M., Fischer, M.H. & **Lindemann, O.** (2022). Spatial-numerical associations without a motor response? Grip force says "Yes". doi:10.1016/j.actpsy.2022.103791
 
 Miklashevsky, M., **Lindemann, O.** & Fischer, M.H. (2021). The force of numbers: Investigating manual signatures of embodied number processing. *Frontiers in Human Neuroscience*. doi:10.3389/fnhum.2020.590508
