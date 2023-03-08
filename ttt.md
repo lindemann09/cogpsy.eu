@@ -1,5 +1,5 @@
 ---
-layout: webmail
+layout: simple
 ---
 
 **Die Seite von *Theos Tollen Trampeltouren*

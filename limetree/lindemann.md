@@ -1,5 +1,5 @@
 ---
-layout: cogpsy
+layout: simple
 ---
 
 ## Oliver Lindemann
