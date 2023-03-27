@@ -2,4 +2,7 @@
 layout: simple
 ---
 
-<p> <a href="https://email.df.eu" target="_top">Email / Webmail</a>
+<p> <a href="https://email.df.eu" target="_top">Webmail Limetree</a></p>
+<hr>
+<p> <a href="http://outlook.com/owa/63596oli@liveeur.mail.onmicrosoft.com" target="_top">Webmail Erasmus University</a></p>
+<p> <a href="https://mail-kle.hochschule-rhein-waal.de/CookieAuth.dll?GetLogon?curl=Z2Fowa&reason=0&formdir=1" target="_top">Webmail HSRW</a></p>
