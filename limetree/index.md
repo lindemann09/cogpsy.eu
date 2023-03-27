@@ -2,4 +2,4 @@
 layout: simple
 ---
 
-<p> <a href="https://webmail.df.eu/roundcube/" target="_top">Email / Webmail</a>
+<p> <a href="https://email.df.eu" target="_top">Email / Webmail</a>
