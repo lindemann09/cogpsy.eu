@@ -1,9 +1,11 @@
 Journal Articles
 ----------------
 
+Michirev, A., Kühne, K., **Lindemann O.**, Fischer M.H. & Raab, M. (in press). How to not induce the SNARC: the insufficiency of covert directional movement. *PLOS ONE*
+
 Sixtus, E., Krause, F., **Lindemann, O.** & Fischer, M. H. (2023). A Sensorimotor Perspective on Numerical Cognition. *Trends in Cognitive Sciences*, 27(4), 367-378. doi:10.1016/j.tics.2023.01.002
 
-Terry, J., ..., **Lindemann, O.** et al. (2023). Data from an International Multi-Centre Study of Statistics and Mathematics Anxieties and Related Variables in University Students (the SMARVUS Dataset). Journal of Open Psychology Data. doi:10.5334/jopd.80
+Terry, J., ..., **Lindemann, O.** et al. (2023). Data from an International Multi-Centre Study of Statistics and Mathematics Anxieties and Related Variables in University Students (the SMARVUS Dataset). *Journal of Open Psychology Data*. doi:10.5334/jopd.80
 
 Miklashevsky, M., Fischer, M.H. & **Lindemann, O.** (2022). Spatial-numerical associations without a motor response? Grip force says "Yes". doi:10.1016/j.actpsy.2022.103791
 
