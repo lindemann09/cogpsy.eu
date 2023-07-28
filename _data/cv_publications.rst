@@ -1,7 +1,8 @@
 Journal Articles
 ----------------
 
-Michirev, A., Kühne, K., **Lindemann O.**, Fischer M.H. & Raab, M. (in press). How to not induce the SNARC: the insufficiency of covert directional movement. *PLOS ONE*
+Michirev, A., Kühne, K., **Lindemann O.**, Fischer M.H. & Raab, M. (2023). How to not induce the SNARC: the insufficiency of covert directional movement. *PLoS ONE*, 18 (6): e0288038. doi:10.1371/Journal.pone.0288038
+
 
 Sixtus, E., Krause, F., **Lindemann, O.** & Fischer, M. H. (2023). A Sensorimotor Perspective on Numerical Cognition. *Trends in Cognitive Sciences*, 27(4), 367-378. doi:10.1016/j.tics.2023.01.002
 
