@@ -16,8 +16,7 @@ Böffel, C., Herbst, C., **Lindemann, O.** & Müsseler, J. (2020). Spatial-Numer
 
 Colling, L, Szűcs, D., ... **Lindemann, O.** et al. (2020). Registered Replication Report on Fischer, Castel, Dodd, and Pratt (2003). *Advances in Methods and Practices in Psychological Science*, 3(2), 143–162. doi:10.1177/2515245920903079
 
-Krause, F., Meyer, M., Bekkering, H., Hunnius, S. & **Lindemann, O.**
-(2019).  Interaction between Perceptual and Motor Magnitudes in Early Childhood. *Developmental Psychology*, 49, 11-19. doi:10.1016/j.cogdev.2018.11.001
+Krause, F., Meyer, M., Bekkering, H., Hunnius, S. & **Lindemann, O.** (2019).  Interaction between Perceptual and Motor Magnitudes in Early Childhood. *Developmental Psychology*, 49, 11-19. doi:10.1016/j.cogdev.2018.11.001
 
 Sixtus, E., **Lindemann, O.** & Fischer, M. H. (2018). Incidental counting: Speeded number naming through finger movements. *Journal of Cognition*, 1(1), 44, 1-11. doi:10.5334/joc.49
 
