@@ -27,7 +27,7 @@ def convert4rst(filename):
             for x in range(len(tmp)):
                 if tmp[x].startswith("doi:"):
                     doi = tmp[x][4:].strip()
-                    tmp[x] = f"`doi: {doi} <http://dx.doi.org/{doi}>`"
+                    tmp[x] = f"`doi:{doi} <http://dx.doi.org/{doi}>`__"
             l = " ".join(tmp)
 
 
