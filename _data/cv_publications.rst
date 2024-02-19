@@ -1,8 +1,11 @@
 Journal Articles
 ----------------
 
-Michirev, A., Kühne, K., **Lindemann O.**, Fischer M.H. & Raab, M. (2023). How to not induce the SNARC: the insufficiency of covert directional movement. *PLoS ONE*, 18 (6): e0288038. doi:10.1371/Journal.pone.0288038
+**Lindemann, O.**, & Fischer, M. H. (2023). Chronometric methods. In *Experimental Methods in Embodied Cognition* (pp. 37–48). Routledge. doi:10.4324/9781003290698-5
 
+Felisatti, A., **Lindemann, O.**, Shaki, S., & Salas, J. A. R. (2023). Interdisciplinary approaches to embodied cognition research. In *Experimental Methods in Embodied Cognition* (pp. 179–193). Routledge. doi:10.4324/9781003290698-15
+
+Michirev, A., Kühne, K., **Lindemann O.**, Fischer M.H. & Raab, M. (2023). How to not induce the SNARC: the insufficiency of covert directional movement. *PLoS ONE*, 18 (6): e0288038. doi:10.1371/Journal.pone.0288038
 
 Sixtus, E., Krause, F., **Lindemann, O.** & Fischer, M. H. (2023). A Sensorimotor Perspective on Numerical Cognition. *Trends in Cognitive Sciences*, 27(4), 367-378. doi:10.1016/j.tics.2023.01.002
 
@@ -49,9 +52,21 @@ Nazir, T. A., Hrycyk, L., Moreau, Q., Frak, V., Cheylus, A., Ott, L.,
 Sensor. *Behavior Research Methods*, 49, 61-73.  doi:10.3758/s13428-015-0696-7
 pdf:https://www.researchgate.net/publication/286916447_A_Simple_Technique_to_Study_Embodied_Language_Processes_The_Grip-Force_Sensor
 
+**Lindemann, O.**, Heiko Etzold, Martin H. Fischer \& Ulrich Kortenkamp (2017).
+Kognitive Effekte der Mengenrepräsentation auf die
+Verarbeitung subsymbolischer Stellenwerttafeln.  In Institut für Mathematik der Universität
+Potsdam (Hrsg.), *Beiträge zum Mathematikunterricht 2017*. Münster: WTM-Verlag.
+
 **Lindemann, O.** & Fischer, M (2015). Editorial: Embodied Number Processing.
 *Journal of Cognitive Psychology*, 27, 381-387.  doi:10.1080/20445911.2015.1032295.
 pdf:https://www.researchgate.net/publication/275886761_Embodied_number_processing
+
+**Lindemann, O.** & Fischer, M. H. (2015). Cognitive Foundations of Human
+Number Representations and Mental Arithmetic. In R. Cohen Kadosh & A.  Dowker
+(Eds.), *The Oxford Handbook of Numerical Cognition*. Oxford, United Kingdom:
+Oxford University Press.
+pdf:http://fdslive.oup.com/www.oup.com/academic/pdf/13/9780199642342.pdf
+
 
 Stapel, J. C., Hunnius, S., Bekkering, H. & **Lindemann, O.** (2015). The
 Development of Numerosity Estimation: Evidence for a Linear number
@@ -155,6 +170,12 @@ Resonance and Intention in Embodied Theories of Language. *European Journal of
 Social Psychology*, 39:1194-1195.  doi:10.1002/ejsp.683
 pdf:https://www.researchgate.net/publication/246850874_Resonance_and_intention_in_embodied_theories_of_language?ev=prf_pub
 
+**Lindemann, O.** (2008). *Action and Cognitive Processing: Functional Links
+between Action Planning and the Processing of Perceptual, Semantic and
+Mathematical Information*. PhD Thesis. University of Groningen, Groningen.
+pdf:http://dissertations.ub.rug.nl/faculties/medicine/2008/o.lindemann/
+
+
 **Lindemann, O.**, Abolafia, J. M., Pratt, J. & Bekkering, H. (2008). Coding
 Strategies in Number Space: Memory Requirements Influence Spatial-Numerical
 Associations. *Quarterly Journal of Experimental Psychology*, 61(4), 515-524.
@@ -166,6 +187,14 @@ Getting a Grip on Numbers: Numerical Magnitude Priming in Object Grasping.
 *Journal of Experimental Psychology: Human Perception and Performance*, 33(6),
 1400-1409.  doi:10.1037/0096-1523.33.6.1400 pdf:https://www.researchgate.net/publication/5762683_Getting_a_grip_on_numbers_numerical_magnitude_priming_in_object_grasping?ev=prf_pub
 
+Van Elk, M., Van Schie, H. T., **Lindemann, O.** & Bekkering, H. (2007). Using
+Conceptual Knowledge in Action and Language. In P. Haggard, Y. Rossetti, & M.
+Kawato (Eds.), *Attention and Performance XXII: Sensorimotor Foundation of
+Higher Cognition* (pp. 575-599). Oxford, United Kingdom: Oxford University
+Press.
+pdf:https://www.researchgate.net/publication/200744209_Using_conceptual_knowledge_in_action_and_language?ev=prf_pub
+
+
 **Lindemann, O.**, Stenneken, P., van Schie, H. T. & Bekkering, H. (2006).
 Semantic Activation in Action Planning. *Journal of Experimental Psychology.
 Human Perception and Performance*, 32(3), 633-643.
@@ -176,32 +205,6 @@ Hannus, A., Cornelissen, F. W., **Lindemann, O.** & Bekkering, H. (2005).
 Selection-for-Action in Visual search. *Acta Psychologica*, 118(1-2), 171-191.
 doi:10.1016/j.actpsy.2004.10.010
 pdf:https://www.researchgate.net/publication/8104366_Selection-for-action_in_visual_search?ev=prf_pub
-
-Books & Book Chapters
----------------------
-
-**Lindemann, O.**, Heiko Etzold, Martin H. Fischer \& Ulrich Kortenkamp (2017).
-Kognitive Effekte der Mengenrepräsentation auf die
-Verarbeitung subsymbolischer Stellenwerttafeln.  In Institut für Mathematik der Universität
-Potsdam (Hrsg.), *Beiträge zum Mathematikunterricht 2017*. Münster: WTM-Verlag.
-
-**Lindemann, O.** & Fischer, M. H. (2015). Cognitive Foundations of Human
-Number Representations and Mental Arithmetic. In R. Cohen Kadosh & A.  Dowker
-(Eds.), *The Oxford Handbook of Numerical Cognition*. Oxford, United Kingdom:
-Oxford University Press.
-pdf:http://fdslive.oup.com/www.oup.com/academic/pdf/13/9780199642342.pdf
-
-Van Elk, M., Van Schie, H. T., **Lindemann, O.** & Bekkering, H. (2007). Using
-Conceptual Knowledge in Action and Language. In P. Haggard, Y. Rossetti, & M.
-Kawato (Eds.), *Attention and Performance XXII: Sensorimotor Foundation of
-Higher Cognition* (pp. 575-599). Oxford, United Kingdom: Oxford University
-Press.
-pdf:https://www.researchgate.net/publication/200744209_Using_conceptual_knowledge_in_action_and_language?ev=prf_pub
-
-**Lindemann, O.** (2008). *Action and Cognitive Processing: Functional Links
-between Action Planning and the Processing of Perceptual, Semantic and
-Mathematical Information*. PhD Thesis. University of Groningen, Groningen.
-pdf:http://dissertations.ub.rug.nl/faculties/medicine/2008/o.lindemann/
 
 
 Published Abstracts
