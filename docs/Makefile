@@ -10,6 +10,7 @@ build:
 	make html
 	rm docs/ -rf
 	jekyll build --incremental
+	mv _site/ docs/
 
 serve:
 	make build
@@ -17,7 +18,6 @@ serve:
 
 deploy:
 	make build
-	mv _site/ docs/
 	git add .
 	# Commit changes.
 	git commit -m "rebuilding site"
