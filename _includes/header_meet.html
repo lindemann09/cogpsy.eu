@@ -1,0 +1,29 @@
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <!--<img height=175 src="../img/Oliver_Lindemann_klein_eur23_edit.png" alt=""> -->
+                    <div class="intro-text">
+                        <span class="name">Dr. Oliver Lindemann</span>
+                        <!-- <span class="skills">
+                          <i><small>Associate Professor</small></i></br>
+                          Erasmus University Rotterdam</br> -->
+                          <!--<a href="https://www.eur.nl/en/essb/"> Department of Psychology, Education and Child Studies</a> -->
+                        </span><br>
+                        <ul class="list-inline">
+                            {% for network in site.social %}
+                            <li>
+                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+              <div class="col-lg-12" style="text-align: left;">
+              </div>
+        </div>
+    </header>
+    </div>
