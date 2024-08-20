@@ -1,6 +1,9 @@
 Journal Articles
 ----------------
 
+Michirev, A., Kühne, K., Fischer M.H., Raab, M., & **Lindemann O.** (in press). Spontaneous Grip Force Fluctuations Mirror Semantic Numerical Magnitude Processing: Larger Numbers Elicit Larger Forces  
+ *Acta Psychologica*.
+
 **Lindemann, O.**, & Fischer, M. H. (2023). Chronometric methods. In *Experimental Methods in Embodied Cognition* (pp. 37–48). Routledge. doi:10.4324/9781003290698-5
 
 Felisatti, A., **Lindemann, O.**, Shaki, S., & Salas, J. A. R. (2023). Interdisciplinary approaches to embodied cognition research. In *Experimental Methods in Embodied Cognition* (pp. 179–193). Routledge. doi:10.4324/9781003290698-15
