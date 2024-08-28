@@ -1,7 +1,7 @@
 Journal Articles
 ----------------
 
-Michirev, A., **Lindemann O.***, Kühne, K., Fischer M.H., &  Raab, M. (2024). Spontaneous Grip Force Fluctuations Mirror Semantic Numerical Magnitude Processing: Larger Numbers Elicit Larger Forces. *Acta Psychologica*, 249. doi:10.1016/j.actpsy.2024.104468 (\*shared first authorship)
+Michirev, A., **Lindemann, O.***, Kühne, K., Fischer M.H., &  Raab, M. (2024). Spontaneous Grip Force Fluctuations Mirror Semantic Numerical Magnitude Processing: Larger Numbers Elicit Larger Forces. *Acta Psychologica*, 249. doi:10.1016/j.actpsy.2024.104468 (\*shared first authorship)
 
 **Lindemann, O.**, & Fischer, M. H. (2023). Chronometric methods. In *Experimental Methods in Embodied Cognition* (pp. 37–48). Routledge. doi:10.4324/9781003290698-5
 
