@@ -1,7 +1,7 @@
 Journal Articles
 ----------------
 
-Michirev, A., Kühne, K., Fischer M.H., Raab, M., & **Lindemann O.** (in press). Spontaneous Grip Force Fluctuations Mirror Semantic Numerical Magnitude Processing: Larger Numbers Elicit Larger Forces. *Acta Psychologica*.
+Michirev, A., **Lindemann O.***, Kühne, K., Fischer M.H., &  Raab, M. (2024). Spontaneous Grip Force Fluctuations Mirror Semantic Numerical Magnitude Processing: Larger Numbers Elicit Larger Forces. *Acta Psychologica*, 249. doi:10.1016/j.actpsy.2024.104468 (\*shared first authorship)
 
 **Lindemann, O.**, & Fischer, M. H. (2023). Chronometric methods. In *Experimental Methods in Embodied Cognition* (pp. 37–48). Routledge. doi:10.4324/9781003290698-5
 
@@ -13,7 +13,7 @@ Sixtus, E., Krause, F., **Lindemann, O.** & Fischer, M. H. (2023). A Sensorimoto
 
 Terry, J., ..., **Lindemann, O.** et al. (2023). Data from an International Multi-Centre Study of Statistics and Mathematics Anxieties and Related Variables in University Students (the SMARVUS Dataset). *Journal of Open Psychology Data*. doi:10.5334/jopd.80
 
-Miklashevsky, M., Fischer, M.H. & **Lindemann, O.** (2022). Spatial-numerical associations without a motor response? Grip force says "Yes". doi:10.1016/j.actpsy.2022.103791
+Miklashevsky, M., Fischer, M.H. & **Lindemann, O.** (2022). Spatial-numerical associations without a motor response? Grip force says "Yes". *Acta Psychologica*, 231. doi:10.1016/j.actpsy.2022.103791
 
 Miklashevsky, M., **Lindemann, O.** & Fischer, M.H. (2021). The force of numbers: Investigating manual signatures of embodied number processing. *Frontiers in Human Neuroscience*, doi:10.3389/fnhum.2020.590508
 
@@ -69,19 +69,16 @@ Number Representations and Mental Arithmetic. In R. Cohen Kadosh & A.  Dowker
 Oxford University Press.
 pdf:http://fdslive.oup.com/www.oup.com/academic/pdf/13/9780199642342.pdf
 
-
 Stapel, J. C., Hunnius, S., Bekkering, H. & **Lindemann, O.** (2015). The
 Development of Numerosity Estimation: Evidence for a Linear number
 Representation Early in Life. *Journal of Cognitive Psychology*, 27, 400-412.
 doi:10.1080/20445911.2014.995668
 pdf:https://www.researchgate.net/publication/270895508_The_development_of_numerosity_estimation_Evidence_for_a_linear_number_representation_early_in_life
 
-
 Wiemers, M., Bekkering, H. & **Lindemann, O.** (2014). Spatial Interferences in
 Mental Arithmetic: Evidence from the Motion-Arithmetic Compatibility Effect.
 *Quarterly Journal of Experimental Psychology*, 67(8), 1557-1570.
 doi:10.1080/17470218.2014.889180 pdf:https://www.researchgate.net/publication/259617405_Spatial_Interferences_in_Mental_Arithmetic_Evidence_from_the_Motion-Arithmetic_Compatibility_Effect
-
 
 Krause, F. & **Lindemann, O.** (2014). Expyriment: A Python Library for
 Cognitive and Neuroscientific Experiments. *Behavior Research Methods*, 46(2),
