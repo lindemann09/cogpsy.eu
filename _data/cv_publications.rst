@@ -1,6 +1,8 @@
 Journal Articles
 ----------------
 
+Namesnik-Silvester, K., Polak,  M., Smits, N., Swinkels, J., Arends, L., Pavlopoulos, D., Psychogyiopoulos, A.,  **Lindemann, O.**, Klinkenberg, S. & de Moor,  M. H. M. (2025). ShareStats: An open statistics item bank developed by a community of instructors in higher education, *Teaching Statistics*, doi:10.1111/test.12399
+
 De Groot, K., Sander, S. M., Van Strien, J. W., & **Lindemann O.** (2024). To Each Their Own: Sociodemographic Disparities in Student Mental Health. *Frontiers in Education*, 9. doi:10.3389/feduc.2024.1391067
 
 Michirev, A., **Lindemann, O.***, Kühne, K., Fischer M.H., &  Raab, M. (2024). Spontaneous Grip Force Fluctuations Mirror Semantic Numerical Magnitude Processing: Larger Numbers Elicit Larger Forces. *Acta Psychologica*, 249. doi:10.1016/j.actpsy.2024.104468 (\*shared first authorship)
