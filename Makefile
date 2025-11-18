@@ -8,7 +8,7 @@ html:
 
 build:
 	make html
-	rm docs/ -rf
+	rm -rf docs/
 	jekyll build --incremental
 	mv _site/ docs/
 
