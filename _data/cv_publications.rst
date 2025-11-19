@@ -21,6 +21,8 @@ Miklashevsky, M., Fischer, M.H. & **Lindemann, O.** (2022). Spatial-numerical as
 
 Miklashevsky, M., **Lindemann, O.** & Fischer, M.H. (2021). The force of numbers: Investigating manual signatures of embodied number processing. *Frontiers in Human Neuroscience*, doi:10.3389/fnhum.2020.590508
 
+Krause, F., & **Lindemann, O.** (2020). On implementing timing-accurate computer-based experiments. *PsyArXiv*. doi:10.31234/osf.io/k5vd9
+
 Böffel, C., Herbst, C., **Lindemann, O.** & Müsseler, J. (2020). Spatial-Numerical Associations in the Presence of an Avatar are Influenced by Spontaneous Response Code Changes. *Psychological Research*. doi:10.1007/s00426-020-01424-y
 
 Colling, L, Szűcs, D., ... **Lindemann, O.** et al. (2020). Registered Replication Report on Fischer, Castel, Dodd, and Pratt (2003). *Advances in Methods and Practices in Psychological Science*, 3(2), 143–162. doi:10.1177/2515245920903079
@@ -30,8 +32,7 @@ Krause, F., Meyer, M., Bekkering, H., Hunnius, S. & **Lindemann, O.** (2019).  I
 Sixtus, E., **Lindemann, O.** & Fischer, M. H. (2018). Incidental counting: Speeded number naming through finger movements. *Journal of Cognition*, 1(1), 44, 1-11. doi:10.5334/joc.49
 
 Sixtus, E., **Lindemann, O.** & Fischer, M. H. (2018). Stimulating Numbers:
-Signatures of Finger Counting in Numerosity Processing. *Psychological
-Research*, 1-16. doi:10.1007/s00426-018-0982-y
+Signatures of Finger Counting in Numerosity Processing. *Psychological Research*, 1-16. doi:10.1007/s00426-018-0982-y
 
 Wiemers, M., Bekkering, H. & **Lindemann, O.** (2017). Is More Always Up?
 Evidence for a Preference of Hand-Based Associations over Vertical Number
