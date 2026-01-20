@@ -1,6 +1,10 @@
 Journal Articles
 ----------------
 
+
+Wühr, P. & **Lindemann, O.**. (2026).  Associations between physical stimulus size and vertical response locations:
+Small goes down and large goes up. *Experimental Psychology.*
+
 Namesnik-Silvester, K., Polak,  M., Smits, N., Swinkels, J., Arends, L., Pavlopoulos, D., Psychogyiopoulos, A.,  **Lindemann, O.**, Klinkenberg, S. & de Moor,  M. H. M. (2025). ShareStats: An open statistics item bank developed by a community of instructors in higher education, *Teaching Statistics*, doi:10.1111/test.12399
 
 De Groot, K., Sander, S. M., Van Strien, J. W., & **Lindemann O.** (2024). To Each Their Own: Sociodemographic Disparities in Student Mental Health. *Frontiers in Education*, 9. doi:10.3389/feduc.2024.1391067
