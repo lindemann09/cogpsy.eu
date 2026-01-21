@@ -1,6 +1,8 @@
 Journal Articles
 ----------------
 
+.. missing: Young Minds paper with Leonie Dudda
+
 
 Wühr, P. & **Lindemann, O.**. (2026).  Associations between physical stimulus size and vertical response locations:
 Small goes down and large goes up. *Experimental Psychology.*
