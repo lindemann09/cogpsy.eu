@@ -1,13 +1,11 @@
 Journal Articles
 ----------------
 
-.. missing: Young Minds paper with Leonie Dudda
+Wühr, P. & **Lindemann, O.** (2026).  Associations between physical stimulus size and vertical response locations: Small goes down and large goes up. *Experimental Psychology.*, 72 (4). doi:10.1027/1618-3169/a000655
 
+Dudda, L.A., Verheyen, S. & **Lindemann, O.** (2026) Reproducibility: How Can we Make Sure That Research Studies Can be Trusted? *Frontiers Young Minds*, 14:1582084. doi:10.3389/frym.2026.1582084
 
-Wühr, P. & **Lindemann, O.**. (2026).  Associations between physical stimulus size and vertical response locations:
-Small goes down and large goes up. *Experimental Psychology.*, 72(4), 175–188, doi:10.1027/1618-3169/a000655
-
-Namesnik-Silvester, K., Polak,  M., Smits, N., Swinkels, J., Arends, L., Pavlopoulos, D., Psychogyiopoulos, A.,  **Lindemann, O.**, Klinkenberg, S. & de Moor,  M. H. M. (2025). ShareStats: An open statistics item bank developed by a community of instructors in higher education, *Teaching Statistics*, doi:10.1111/test.12399
+Namesnik-Silvester, K., Polak,  M., Smits, N., Swinkels, J., Arends, L., Pavlopoulos, D., Psychogyiopoulos, A.,  **Lindemann, O.**, Klinkenberg, S. & de Moor,  M. H. M. (2025). ShareStats: An open statistics item bank developed by a community of instructors in higher education, *Teaching Statistics*. doi:10.1111/test.12399
 
 De Groot, K., Sander, S. M., Van Strien, J. W., & **Lindemann O.** (2024). To Each Their Own: Sociodemographic Disparities in Student Mental Health. *Frontiers in Education*, 9. doi:10.3389/feduc.2024.1391067
 
