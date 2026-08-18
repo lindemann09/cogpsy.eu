@@ -3,5 +3,3 @@ Alex Miklashevsky, A., Lindemann, O. & Fischer, M. (in press). Mind the Hands: H
 Jenny Terry,  The Fault in Our STARS: International Evidence that the Statistics Anxiety Rating Scale and the Revised Mathematics Anxiety Rating Scale Overlap
 
 Review with Lille
-
-Kim Ouwehand, Brief Moderate-Intensity Cycling, Momentary Nervousness, and Math Performance in Young Adults, Frontiers

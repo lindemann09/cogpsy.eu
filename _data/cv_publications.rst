@@ -1,6 +1,10 @@
 Journal Articles
 ----------------
 
+Ouwehand, K., Mavilidi M., Van Nooijen, C., **Lindemann, O.**, de Koster, M., Schmidt, M., Zou, L., Yu, Q., De Koning, B.B. &
+Paas, F. (2026, in press) Brief moderate-intensity cycling, momentary nervousness, and mathematics performance in young adults.
+*Frontiers in Psychology*, 17.
+
 Wühr, P. & **Lindemann, O.** (2026).  Associations between physical stimulus size and vertical response locations: Small goes down and large goes up. *Experimental Psychology.*, 72 (4). doi:10.1027/1618-3169/a000655
 
 Dudda, L.A., Verheyen, S. & **Lindemann, O.** (2026) Reproducibility: How Can we Make Sure That Research Studies Can be Trusted? *Frontiers Young Minds*, 14:1582084. doi:10.3389/frym.2026.1582084

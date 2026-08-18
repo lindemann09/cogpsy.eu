@@ -1,0 +1,42 @@
+---
+title: "First Test of my website"
+format: html
+echo: false
+---
+
+```{python}
+from IPython.display import Markdown
+
+def convert_links(filename):
+    """converts code for rst, that is, include doi and pdf links
+    """
+    rtn = ""
+    fl = open(filename, "r")
+    for l in fl:
+        if l.find("doi:")>=0:
+            tmp = l.split(" ")
+            for x in range(len(tmp)):
+                if tmp[x].startswith("doi:"):
+                    doi = tmp[x][4:].strip()
+                    tmp[x] = f"[doi: {doi}](http://dx.doi.org/{doi})"
+            l = " ".join(tmp)
+
+
+        if l.find("pdf:")>=0:
+            tmp = l.split(" ")
+            for x in range(len(tmp)):
+                if tmp[x].startswith("pdf:"):
+                    tmp[x] = "[pdf](" + tmp[x][4:].strip() + ")" + "\n"
+            l = " ".join(tmp)
+
+        if len(l)>0:
+            rtn += l.rstrip() + "\n"
+    fl.close()
+    return rtn
+```
+
+
+```{python}
+Markdown(convert_links("_data/cv_publications.rst"))
+```
+
